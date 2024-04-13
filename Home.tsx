@@ -101,7 +101,7 @@ const Home = () => {
       style={{ minHeight: "100%", backgroundColor: "rgba(50,50,50,1)" }}
     >
       <View style={styles.container}>
-        <Text style={styles.titleText}>BMI Calculator</Text>
+        <Text style={styles.titleText}>BMI Calculator by Станёните Ксения Робертовна</Text>
         <View style={styles.inputContainer}>
           <TextInput
             value={height}
